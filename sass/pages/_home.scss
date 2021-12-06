@@ -21,3 +21,9 @@
     }
     // Here we select ONLY direct child selector (all of them) of the 'section-features'!
 }
+
+.section-tours {
+    background-color: $color-grey-light-1;
+    padding: 25rem 0 15rem 0;
+    margin-top: -11.5rem;
+}
